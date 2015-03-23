@@ -16,18 +16,18 @@
         <dex dex="C:\Users\Anthony\AndroidstudioProjects\WeatherCheck\app\build\intermediates\pre-dexed\debug\okio-1.2.0-b45950ed5b430be9ee4f6fb31d2e2cc17ba2c2d3.jar" />
     </item>
     <item
-        jar="C:\Users\Anthony\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.2.0\959c454243581fdf730abfd4f4745441724bcf2c\okhttp-2.2.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
-        <dex dex="C:\Users\Anthony\AndroidstudioProjects\WeatherCheck\app\build\intermediates\pre-dexed\debug\okhttp-2.2.0-f2833f8b432821cc4df8ca15f4fed819341be21b.jar" />
-    </item>
-    <item
         jar="C:\Users\Anthony\AndroidstudioProjects\WeatherCheck\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
         <dex dex="C:\Users\Anthony\AndroidstudioProjects\WeatherCheck\app\build\intermediates\pre-dexed\debug\classes-e7403d68075fa971cb92af628735496bed3c81bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Anthony\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.2.0\959c454243581fdf730abfd4f4745441724bcf2c\okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="C:\Users\Anthony\AndroidstudioProjects\WeatherCheck\app\build\intermediates\pre-dexed\debug\okhttp-2.2.0-f2833f8b432821cc4df8ca15f4fed819341be21b.jar" />
     </item>
     <item
         jar="C:\Users\Anthony\Documents\Android\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"

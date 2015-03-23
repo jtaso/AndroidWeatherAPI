@@ -6,6 +6,10 @@ import java.util.TimeZone;
 
 /**
  * MODEL OBJECT
+ *
+ * Class used to store and process data from the JSON object produced by
+ * main activity
+ *
  */
 public class CurrentWeather
 {
@@ -121,6 +125,11 @@ public class CurrentWeather
     public String getTimeZone()                 { return timeZone;}
     public void setTimeZone(String timezone)    {this.timeZone = timezone;}
 
+    /**
+     * Formats the time using the Date class.
+     *
+     * @return date as String
+     */
     public String formatTime()
     {
         SimpleDateFormat form = new SimpleDateFormat("h:mm a");

@@ -7,6 +7,9 @@ import android.content.Context;
 import android.os.Bundle;
 
 /**
+ * This class can be used to generate custom alerts or dialogs given a specified event.
+ * Pretty much copy and paste this code for whenever you need the user to know something that
+ * has happened.
  */
 public class AlertDialogFragment extends DialogFragment
 {
